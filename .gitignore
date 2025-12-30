@@ -1,0 +1,29 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Editors and OS files
+.DS_Store # macOS files
+.project # IDE files
+.vscode/ # VS Code directory
+.idea/ # PyCharm/IntelliJ directory
+
+# Sensitive files
+.env

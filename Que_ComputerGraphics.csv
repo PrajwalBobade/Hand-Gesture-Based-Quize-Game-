@@ -1,0 +1,11 @@
+Question,Choice1,Choice2,Choice3,Choice4,Answer
+1.Which of the following is a Computer Graphics type?,a)Raster and Vector,b)Raster and Scalar,c)Scalar only,d)All of the above,1
+2.Which of the following is a Computer Graphics Curve?,a)Bezier Curves,b)Implicit Curves,c)Explicit Curves,d)All of the above,4
+3.Who is the first user of computer graphics?,a)William Fetter,b)Ivan Edward Sutherland,c)Ada Lovelace,d)Nicholas Williams,1
+4.__types of translation are present in computer graphics.,a) 5,b) 3,c) 4,d) 6,2
+5.How many axes do 3D graphics consist of?,a)Two axes,b)Three axes,c)Five axes,d)One axis,2
+6.Which of the following is a basic element of graphics programming?,a)Pixel,b)Vector,c)Matrix,d)Object,1
+7.Which file format is commonly used for storing 3D models?,a) PNG,b) JPEG,c) OBJ,d) BMP,3
+8.Which of the following is a color model used in computer graphics?,a) XYZ,b) RGB,c) ASCII,d) HTTP,2
+9.In the context of computer graphics what does "LOD" stand for?,a)Level of Detail,b)Length of Display,c)Line of Division,d)Layer of Data,1
+10.What is a commonly used method for hidden surface removal?,a)Z-buffer algorithm,b)Flood-fill algorithm,c)Bresenham's algorithm,d)Fourier transform,1

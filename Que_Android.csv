@@ -1,0 +1,11 @@
+Question,Choice1,Choice2,Choice3,Choice4,Answer
+1.What is Android?,a)A type of robot,b)A mobile operating system,c)A web browser,d)A programming language,2
+2. Who initially developed Android?,a)Microsoft,b)Apple,c)Android Inc.,d)Google,3
+3.What is an APK in Android?,a)A type of permission,b)A configuration file,c) Android Package Kit,d)A debugging tool,3
+4. What is the name of Android's virtual machine?,a)VirtualBox,b)Dalvik,c)JVM,d)ART,2
+5.Which component in Android is responsible for screen navigation?,a)View,b)Activity,c)Service,d)BroadcastReceiver,2
+6.What is a Fragment in Android?,a)A piece of an activity,b)A type of intent,c)A data storage unit,d)A security feature,1
+7.What is the Android operating system based on?,a) Windows,b) Mac OS,c) Linux,d) iOS,3
+8.Which of the following is the default layout in Android?,a)LinearLayout,b)RelativeLayout,c)ConstraintLayout,d)FrameLayout,1
+9.Which method is used to start a new activity in Android?,a)startService(),b)startActivity(),c)startIntent(),d)startReceiver(),2
+10.What is the role of the manifest file in an Android app?,A)Layout design,B)Activity management,C)App configuration,D)Data storage,3
